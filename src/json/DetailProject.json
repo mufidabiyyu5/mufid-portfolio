@@ -1,0 +1,221 @@
+{
+    "projects": [
+        {
+            "_id": "Project_2",
+            "titleName": "UX Case Study",
+            "projectName": "Coffee Shop App",
+            "image": "./assets/images/Kopi_Djawa.png",
+            "overview": "Kopi Djawa is a small coffee shop that has started to have many customers and long queues. Because of this, many customers complain about having to queue for a long time to order coffee. Kopi Java has tried to register with Gofood but there are still many queues of customers who buy directly. They reason to buy directly because going through Gofood, Grab Food, or Shopee Food will incur additional costs such as postage, and the price of larger coffee is around 20-30% of the original price.",
+            "arrayOverview": [
+                {
+                    "title": "Problem Statement",
+                    "desc": "Kopi Java has a long queue of customers. Because of this, many customers complain about having to queue for a long time to order coffee. Kopi Djawa has tried to overcome this problem by registering with Gofood but to no avail because customers consider the shipping costs to be quite expensive and the price of coffee to increase by 20-30% when ordering at Gofood, Grab Food, or Shopee Food."
+                },
+                {
+                    "title": "Objective",
+                    "desc": "Providing a platform for Kopi Djawa customers so they don't have to wait in long lines to order coffee and don't have to spend more to order coffee."
+                },
+                {
+                    "title": "My Role",
+                    "desc": "My role as a product designer and because this is a fake case study, so I do all the design process. From research to design end-to-end."
+                },
+                {
+                    "title": "Tools",
+                    "desc": "Figma, Figjam, Whimsical, and Google Form"
+                }
+            ],
+            "process": [
+                {
+                    "title": "Research - ",
+                    "link": null
+                },
+                {
+                    "title": "User Persona",
+                    "link": "https://drive.google.com/file/d/1MS86IhWfa3tjYPce3CTPU6ur5mF68jqD/view?usp=sharing"
+                },
+                {
+                    "title": "User Journey Map (Before)",
+                    "link": "https://drive.google.com/file/d/1gL27Y1Y0HJhK3FydJXgVRVDyIpb7LemT/view?usp=sharing"
+                },
+                {
+                    "title": "User Journey Map (Before with Food Delivery App)",
+                    "link": "https://drive.google.com/file/d/1XQmnoTZ2-SXtwtjUDW1XTQLVUkqnXJvP/view?usp=sharing"
+                },
+                {
+                    "title": "Define Requirements",
+                    "link": "https://drive.google.com/file/d/1ZcXAqpsMy5mjYy35veYL3Z4wdIm07HEX/view?usp=sharing"
+                },
+                {
+                    "title": "User Flow",
+                    "link": "https://drive.google.com/file/d/1Br-BQDvmVP7ki6rUKWuLvc5-1C2gTrJH/view?usp=sharing"
+                },
+                {
+                    "title": "Wireframe",
+                    "link": "https://drive.google.com/file/d/1ZTJ2RuHr3ypR7J5j0n6KRVw0LKTammpW/view?usp=sharing"
+                },
+                {
+                    "title": "Design System",
+                    "link": "https://drive.google.com/file/d/1uVQUyYfU_IczUMylB0TMO0zO9BYk7qOE/view?usp=sharing"
+                },
+                {
+                    "title": "Prototype",
+                    "link": "https://www.figma.com/proto/pUdcayTg1u6cXPphKzSSQi/Prototype-Challenge-5?page-id=0%3A1&node-id=2%3A323&viewport=432%2C251%2C0.11&scaling=scale-down&starting-point-node-id=2%3A887"
+                },
+                {
+                    "title": "User Journey Map (After)",
+                    "link": "https://drive.google.com/file/d/14eGddOC6sbxo31O2g3jkzWvLmcsqSQfS/view?usp=sharing"
+                },
+                {
+                    "title": "Usability Testing",
+                    "link": null
+                }
+            ],
+            "conclusion": "Based on the results of UT, of course the designed prototype still needs improvement. However, for the usability scale of the prototype, it has gotten a good score with an average of 94. This value has entered into Grade A on the SUS value scale."
+            
+        },
+        {
+            "_id": "Project_1",
+            "titleName": "UI/UX Redesign",
+            "projectName": "IKEA Indonesia App",
+            "image": "./assets/images/ikea.png",
+            "overview": "Who doesn't know IKEA? Yes, as we all know, IKEA is one of the largest companies in the world for home furnishing, this Swedish company offers simple and attractive household products. Then IKEA Indonesia launched a mobile application to provide an easier shopping experience for household furniture online or in stores.",
+            "arrayOverview": [
+                {
+                    "title": "Problem Statement",
+                    "desc": "Based on the results of a review on the google play store, many users of the IKEA Indonesia application complained that the application was difficult to use. Don't know why they made it like that, but having a good mobile application/website in addition to increasing sales, will certainly increase the branding side of the company."
+                },
+                {
+                    "title": "Objective",
+                    "desc": "Understanding user pain points when using the IKEA Indonesia application."
+                },
+                {
+                    "title": "My Role",
+                    "desc": "My role as a product designer and because this is a fake case study, so I do all the design process. From research to design end-to-end."
+                },
+                {
+                    "title": "Tools",
+                    "desc": "Google Meet, Notion, Miro, and Figma"
+                }
+            ],
+            "process": [
+                {
+                    "title": "Interview - ",
+                    "link": null
+                },
+                {
+                    "title": "Observation - ",
+                    "link": null
+                },
+                {
+                    "title": "Affinity Map",
+                    "link": "https://drive.google.com/file/d/1lMBOo51IRUXXWPMGT1SbrDPzV5HFLsvM/view?usp=sharing"
+                },
+                {
+                    "title": "Competitive Analysis",
+                    "link": "https://drive.google.com/file/d/1ssdOwkdpud5W-HYn3YFU-0LFBE7uBS2v/view?usp=sharing"
+                },
+                {
+                    "title": "User Persona",
+                    "link": "https://drive.google.com/file/d/1JOXZhM1XtigQYJwstJE3Vgyh_CA7Hjha/view?usp=sharing"
+                },
+                {
+                    "title": "How Might We",
+                    "link": "https://drive.google.com/file/d/1gRZsn-AZrC3zLDOiDRgHmLXx5K7JdU-7/view?usp=sharing"
+                },
+                {
+                    "title": "Solution Idea",
+                    "link": "https://drive.google.com/file/d/1NM2PNEOg3XB6KVmKgSG9W-PkeG1yJx6U/view?usp=sharing"
+                },
+                {
+                    "title": "Prioritization Matrix",
+                    "link": "https://drive.google.com/file/d/16TamiRexSEA03Yy7VHSNgsO8L7mztyr9/view?usp=sharing"
+                },
+                {
+                    "title": "MVP User Flow",
+                    "link": "https://drive.google.com/file/d/1-RZZmEXASmIdxTC7GO1wcn4C_m2GVI2s/view?usp=sharing"
+                },
+                {
+                    "title": "Design System",
+                    "link": "https://drive.google.com/file/d/1mgMQ5DOV1DB3074Fqwr5z-Gio3sC0u37/view?usp=sharing"
+                },
+                {
+                    "title": "Prototype",
+                    "link": "https://www.figma.com/proto/6VRoKkCEb14LGL4XbWt5V5/Challenge-6?page-id=3%3A2&node-id=5%3A2&viewport=316%2C377%2C0.14&scaling=scale-down&starting-point-node-id=17%3A1652"
+                },
+                {
+                    "title": "Usability Testing",
+                    "link": null
+                }
+            ],
+            "conclusion": "Based on the results of UT, there are still shortcomings of the prototype. However, the result of the redesign of the IKEA Indonesia application prototype, got a very good score. Where according to the user visually the application is good such as color selection, and layouting. Then most users can easily find the main features of the application, and easily understand the flow of the application."
+        },
+        {
+            "_id": "Project_3",
+            "titleName": "UX Case Study",
+            "projectName": "EzRent: Car Rental App",
+            "image": "./assets/images/EzRent.png",
+            "overview": "Jennie is a career woman who wants to spend her vacation by going out of town with her office friends. But Jennie's car was not able to fit all of her friends. Therefore, for this vacation, Jennie will rent a car with a larger capacity so that it can accommodate all the friends she wants to invite. For that Jennie decided to look for a car rental to place an order. However, Jennie had difficulty getting a car that suits her needs, and had time to get a suitable car but it was far from Jennie's location.",
+            "arrayOverview": [
+                {
+                    "title": "Problem Statement",
+                    "desc": "Jennie is in need of a car rental that can be delivered to her location for a vacation with her friends because Jennie's car capacity is not enough to accommodate all her friends."
+                },
+                {
+                    "title": "Objective",
+                    "desc": "Provides a platform for travelers who need a car to rent easily."
+                },
+                {
+                    "title": "My Role",
+                    "desc": "My role as a product designer and because this is a fake case study, so I do all the design process. From research to design end-to-end."
+                },
+                {
+                    "title": "Tools",
+                    "desc": "Figma, and Whimsical"
+                }
+            ],
+            "process": [
+                {
+                    "title": "Research - ",
+                    "link": null
+                },
+                {
+                    "title": "User Persona",
+                    "link": "https://drive.google.com/file/d/1y6Rtd9SohELNdHhIEU8cojQ_2ibuR2Ui/view?usp=sharing"
+                },
+                {
+                    "title": "User Journey Map",
+                    "link": "https://drive.google.com/file/d/15SMPogyfkAqSI7qqCoKqfyBoOFbEaFSO/view?usp=sharing"
+                },
+                {
+                    "title": "Defining Requirements",
+                    "link": "https://drive.google.com/file/d/1dOa2z8S-3xhgG9vyC2u4xyXXJ0wlKtC4/view?usp=sharing"
+                },
+                {
+                    "title": "Information Architecture",
+                    "link": "https://drive.google.com/file/d/1sfWH1A56-1bXHJwdAQjYsYMt09schV75/view?usp=sharing"
+                },
+                {
+                    "title": "Moodboard",
+                    "link": "https://drive.google.com/file/d/1HTd4p6S_edWj2P8YthaX0Vjd6ZmfdkwZ/view?usp=sharing"
+                },
+                {
+                    "title": "Wireframe",
+                    "link": "https://drive.google.com/file/d/1ZB-gtU-kDC4KRpV61VcZv7A2nscjQEzn/view?usp=sharing"
+                },
+                {
+                    "title": "Design System",
+                    "link": "https://drive.google.com/file/d/18cdvmpFc6RmDm0oN0r5GF1q5UnFFkMmt/view?usp=sharing"
+                },
+                {
+                    "title": "Prototype",
+                    "link": "https://www.figma.com/proto/w5toYDfwxlGVIopOHriAX4/Challenge-4---Mochamad-Mufid-Abiyyu?page-id=2%3A5&node-id=15%3A2844&viewport=1029%2C380%2C0.29&scaling=scale-down&starting-point-node-id=15%3A2844"
+                },
+                {
+                    "title": "Test",
+                    "link": null
+                }
+            ],
+            "conclusion": "The design results have not gone through the testing phase. However, hopefully the results of the idea and design can solve the problem when looking for a car rental."
+        }
+    ]
+}

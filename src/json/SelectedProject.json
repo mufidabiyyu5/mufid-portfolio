@@ -1,0 +1,22 @@
+{
+    "selected": [
+        {
+            "_id": "Project_1",
+            "titleName": "UI/UX Redesign",
+            "projectName": "IKEA Indonesia App",
+            "image": "../assets/images/ikea.png"
+        },
+        {
+            "_id": "Project_2",
+            "titleName": "UX Case Study",
+            "projectName": "Kopi Djawa: Coffee Shop App",
+            "image": "../assets/images/Kopi_Djawa.png"
+        },
+        {
+            "_id": "Project_3",
+            "titleName": "UX Case Study",
+            "projectName": "EzRent: Car Rental App",
+            "image": "../assets/images/EzRent.png"
+        }
+    ]
+}

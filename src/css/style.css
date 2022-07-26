@@ -1,0 +1,355 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  font-family: 'Inter', sans-serif;
+  background: #222831;
+  color: #ffffff;
+}
+
+nav {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0;
+  background-color: #222831;
+  z-index: 1;
+}
+
+nav .nav-item {
+  margin-left: 2rem;
+}
+
+nav .nav-item a {
+  color: #eeeeee !important;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+nav .nav-item a:hover {
+  color: #FFD369 !important;
+}
+
+.hero {
+  margin: 10rem 7rem;
+}
+
+.hero span {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.hero .name {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero .name label {
+  color: #FFD369;
+}
+
+.hero .occupation {
+  font-weight: 700;
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  color: #FFD369;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.content-section {
+  margin: 7rem 0;
+}
+
+.content-section h2 {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.content-section p {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #7a7a7a;
+}
+
+.content-section p:hover {
+  color: #ffffff;
+}
+
+.content-section .card-project {
+  margin: 2rem 0;
+}
+
+.content-section .card-project .card-project-body {
+  margin: 1rem 0;
+}
+
+.content-section .card-project .card-project-body h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.content-section .card-project .card-project-body .card-project-desc {
+  margin-bottom: 1rem;
+}
+
+.content-section .card-project .card-project-body a {
+  margin-left: 1rem;
+  color: #7a7a7a;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.content-section .card-project .card-project-body a:hover {
+  color: #FFD369;
+  text-decoration: underline;
+}
+
+footer a {
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+
+footer a svg {
+  fill: #7a7a7a;
+}
+
+footer a svg:hover {
+  fill: #FFD369;
+}
+
+footer p {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #7a7a7a;
+}
+
+.title-section label {
+  margin-left: 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.title-section .title {
+  margin: 4.5rem 0 4.5rem 0;
+}
+
+.title-section .title .main-title {
+  color: #FFD369;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.title-section .title .sub-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.title-img {
+  margin-bottom: 4.5rem;
+}
+
+.desc-section p {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 5rem;
+}
+
+.default-section {
+  margin: 4rem 5rem;
+}
+
+.default-section h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.default-section p {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #7a7a7a;
+}
+
+.default-section p:hover {
+  color: #ffffff;
+}
+
+.process-section .wrapper {
+  margin: 4rem 5rem;
+}
+
+.process-section .wrapper h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.process-section .wrapper .process-wrapper {
+  color: #7a7a7a;
+}
+
+.process-section .wrapper .process-wrapper:hover {
+  color: #ffffff;
+}
+
+.process-section .wrapper span {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-right: 0.25rem;
+}
+
+.process-section .wrapper a {
+  color: #FFD369;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.process-section .wrapper a:hover {
+  color: #7a7a7a;
+  text-decoration: underline;
+}
+
+.skills {
+  margin: 2.5rem;
+}
+
+.skills img {
+  width: 4rem;
+  height: 4rem;
+}
+
+.education {
+  margin-top: 2rem;
+}
+
+.education img {
+  height: 4rem;
+  width: 4rem;
+  margin-right: 1.5rem;
+}
+
+.education h4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.education span {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 700px) {
+  .hero {
+    margin: 9rem 0;
+    text-align: center;
+  }
+  .hero span {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+  .hero .name {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .hero .name label {
+    color: #FFD369;
+  }
+  .hero .occupation {
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #FFD369;
+  }
+  .hero p {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  .content-section {
+    margin-top: 8rem;
+  }
+  .content-section h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+  }
+  .content-section p {
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #7a7a7a;
+  }
+  .content-section p:hover {
+    color: #ffffff;
+  }
+  .content-section .card-project {
+    margin: 2rem 0;
+  }
+  .content-section .card-project .card-project-body {
+    margin: 1rem 0;
+  }
+  .content-section .card-project .card-project-body h3 {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+  }
+  .content-section .card-project .card-project-body .card-project-desc {
+    margin-bottom: 1rem;
+  }
+  .content-section .card-project .card-project-body a {
+    margin-left: 1rem;
+    color: #7a7a7a;
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  .content-section .card-project .card-project-body a:hover {
+    color: #FFD369;
+    text-decoration: underline;
+  }
+  .skills {
+    margin: 2rem;
+  }
+  .skills img {
+    margin-bottom: 1rem;
+    width: 2rem;
+    height: 2rem;
+  }
+  .education {
+    margin-top: 2rem;
+  }
+  .education .card-education {
+    margin-bottom: 2rem;
+  }
+  .education img {
+    height: 3rem;
+    width: 3rem;
+    margin-right: 1rem;
+  }
+  .education h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  .education span {
+    font-size: 0.75rem;
+    font-weight: 400;
+  }
+}
+/*# sourceMappingURL=style.css.map */
