@@ -14,10 +14,10 @@ export default function ProcessSection(props){
     return(
         <section className="container">
             <div className="content-section text-center">
-                <h2 data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="1000" data-aos-delay="1000" data-aos-offset="0" data-aos-anchor-placement="center-bottom">
+                <h2 data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="300" data-aos-offset="0" data-aos-anchor-placement="center-bottom">
                     Tools &#38; Skills
                 </h2>
-                <div className='row text-center align-items-center justify-content-center skills' data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="1000" data-aos-delay="1200" data-aos-offset="0" data-aos-anchor-placement="center-bottom">
+                <div className='row text-center align-items-center justify-content-center skills' data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="600" data-aos-offset="0" data-aos-anchor-placement="center-bottom">
                     <div className='col-lg col-3'>
                         <img src={Figma} alt='Figma' className='img-fluid'></img>
                     </div>

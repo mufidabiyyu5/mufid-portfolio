@@ -9,6 +9,8 @@ import "./elements/TypeWriter"
 
 import Landing from './scenes/LandingPage'
 import Projects from './scenes/Projects'
+import Explore from './scenes/Explore'
+import DetailExplore from './scenes/DetailExplore'
 
 function App() {
 
@@ -22,6 +24,8 @@ function App() {
     <Routes>
       <Route path="/" element={<Landing/>} />
       <Route path="/:id" element={<Projects/>} />
+      <Route path="/explore" element={<Explore/>}/>
+      <Route path="/explore/:id" element={<DetailExplore/>}/>
     </Routes>
   );
 }

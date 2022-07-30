@@ -1,0 +1,49 @@
+{
+    "explore": [
+        {
+            "_id": "explore_1",
+            "name": "Live Score EPL App",
+            "image": "../assets/exploration/epl.png"
+        },
+        {
+            "_id": "explore_2",
+            "name": "Hike Travel Website",
+            "image": "../assets/exploration/Hike.jpg"
+        },
+        {
+            "_id": "explore_3",
+            "name": "Music Player App",
+            "image": "../assets/exploration/music.png"
+        },
+        {
+            "_id": "explore_4",
+            "name": "Travel & Properties App",
+            "image": "../assets/exploration/sub1.jpg"
+        },
+        {
+            "_id": "explore_5",
+            "name": "Vidio Settings Page Redesign",
+            "image": "../assets/exploration/vidio.png"
+        },
+        {
+            "_id": "explore_6",
+            "name": "Playstation Store App",
+            "image": "../assets/exploration/Playstation.png"
+        },
+        {
+            "_id": "explore_7",
+            "name": "UI Calculator",
+            "image": "../assets/exploration/calculator.png"
+        },
+        {
+            "_id": "explore_8",
+            "name": "Profile Page",
+            "image": "../assets/exploration/profile.png"
+        },
+        {
+            "_id": "explore_9",
+            "name": "Real Estate App",
+            "image": "../assets/exploration/real_estate-dribbble.png"
+        }
+    ]
+}

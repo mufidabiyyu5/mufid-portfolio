@@ -260,6 +260,73 @@ footer{
     }
 }
 
+.see-more{
+    span{
+        font-size: 1rem;
+        color: #FFD369;
+        font-weight: 500; 
+        margin-right: 0.5rem;
+        
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+}
+
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.exploration{
+    margin-top: 2rem;
+
+    .img-explore{
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+        transition: .5s ease;
+        backface-visibility: hidden;
+    }
+
+    .middle {
+        color: white;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+        opacity: 0;
+
+        .icon-visible{
+            width: 2rem;
+            height: 2rem;
+        }
+    }
+
+    &:hover{
+        .img-explore{
+            opacity: 0.3;
+        }
+
+        .middle{
+            opacity: 1;
+        }
+    }
+    
+}
+
 @media only screen and (max-width: 700px) {
     .hero{
         margin: 9rem 0;
