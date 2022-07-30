@@ -20,7 +20,7 @@ export default function Header(props){
                     }}
                     cursorColor="#3F3D56"
                     multiText={[
-                        'Loving User Experience Design',
+                        'Based in Indonesia',
                         'Designing Wonderful Products',
                         'Here is My UX Portfolio Page',
                         'UI/UX Enthusiast',
