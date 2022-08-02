@@ -44,6 +44,36 @@
             "_id": "explore_9",
             "name": "Real Estate App",
             "image": "../assets/exploration/real_estate-dribbble.png"
+        },
+        {
+            "_id": "explore_10",
+            "name": "Register Page",
+            "image": "../assets/exploration/register.png"
+        },
+        {
+            "_id": "explore_11",
+            "name": "Travel App",
+            "image": "../assets/exploration/travel.png"
+        },
+        {
+            "_id": "explore_13",
+            "name": "Roomate: Furniture Store",
+            "image": "../assets/exploration/roomate.png"
+        },
+        {
+            "_id": "explore_12",
+            "name": "Theater Movie App",
+            "image": "../assets/exploration/movie.jpg"
+        },
+        {
+            "_id": "explore_14",
+            "name": "Onboarding and Login Page of Food Delivery App",
+            "image": "../assets/exploration/onboarding_login.jpg"
+        },
+        {
+            "_id": "explore_15",
+            "name": "Fintech App with Glassmorphism Theme",
+            "image": "../assets/exploration/glassmorphism.png"
         }
     ]
 }
