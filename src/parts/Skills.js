@@ -2,11 +2,11 @@ import React from 'react'
 
 import Figma from '../assets/images/figma.png'
 import AdobeXd from '../assets/images/adobe_xd.png'
-import Invision from '../assets/images/invision.png'
-import Photoshop from '../assets/images/adobe_photoshop.png'
+import Miro from '../assets/images/miro.png'
+import Maze from '../assets/images/maze.png'
 import Html from '../assets/images/html_5.png'
 import Css from '../assets/images/css_3.png'
-import Wordpress from '../assets/images/wordpress.png'
+import Js from '../assets/images/js.png'
 
 
 export default function ProcessSection(props){
@@ -25,10 +25,10 @@ export default function ProcessSection(props){
                         <img src={AdobeXd} alt='Adobe Xd' className='img-fluid'></img>
                     </div>
                     <div className='col-lg col-3'>
-                        <img src={Invision} alt='Invision' className='img-fluid'></img>
+                        <img src={Miro} alt='Miro' className='img-fluid'></img>
                     </div>
                     <div className='col-lg col-3'>
-                        <img src={Photoshop} alt='Photoshop' className='img-fluid'></img>
+                        <img src={Maze} alt='Maze for Usability Testing' className='img-fluid'></img>
                     </div>
                     <div className='col-lg col-3'>
                         <img src={Html} alt='HTML' className='img-fluid'></img>
@@ -37,7 +37,7 @@ export default function ProcessSection(props){
                         <img src={Css} alt='CSS' className='img-fluid'></img>
                     </div>
                     <div className='col-lg col-3'>
-                        <img src={Wordpress} alt='Wordpress' className='img-fluid'></img>
+                        <img src={Js} alt='Javascript' className='img-fluid'></img>
                     </div>
                 </div>
             </div>
