@@ -29,7 +29,7 @@ export default function Header(props){
                     typeSpeed={100}
                     />
                 </h1>
-                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="1200" data-aos-offset="0">I am a computer science student who is enthusiastic about
+                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="1200" data-aos-offset="0">I am a fresh computer science graduate who is enthusiastic about
                     <br/> user experience design</p>
             </div>
             <div className="hero d-lg-none">
