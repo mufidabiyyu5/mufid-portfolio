@@ -18,7 +18,7 @@ export default function Education(props){
                             <div className='d-block'>
                                 <h4>Computer Science</h4>
                                 <h4>Universitas Pendidikan Indonesia</h4>
-                                <span>2019 - Present</span>
+                                <span>2019 - 2023</span>
                             </div>
                         </div>
                     </div>
