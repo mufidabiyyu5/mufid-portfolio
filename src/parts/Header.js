@@ -38,8 +38,7 @@ export default function Header(props){
                 <h1 className="occupation" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="900" data-aos-offset="0">
                     UI/UX Enthusiast
                 </h1>
-                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="1200" data-aos-offset="0">I am a fresh computer science graduate who is 
-                <br/> enthusiastic about user experience design and mobile development</p>
+                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="1200" data-aos-offset="0">A UI/UX Designer with 2 years of experience who love to create a great product from design thinking way, and also have interest in mobile development.</p>
             </div>
         </header>
     );
