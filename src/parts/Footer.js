@@ -29,7 +29,7 @@ export default function Footer(props){
                     </a>
                 </div>
                 <div className="col-lg-6 text-lg-end text-sm-start">
-                    <p>© Mochamad Mufid 2022</p>
+                    <p>© Mochamad Mufid 2024</p>
                 </div>
             </div>
         </footer>
