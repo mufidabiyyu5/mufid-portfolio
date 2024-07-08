@@ -29,8 +29,7 @@ export default function Header(props){
                     typeSpeed={100}
                     />
                 </h1>
-                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="1200" data-aos-offset="0">I am a fresh computer science graduate who is enthusiastic about
-                    <br/> user experience design</p>
+                <p data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="1200" data-aos-offset="0">A UI/UX Designer with 2 years of experience who love to create a great product from design thinking way, and also have interest in mobile development.</p>
             </div>
             <div className="hero d-lg-none">
                 <span data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-duration="300" data-aos-delay="300" data-aos-offset="0">Hello <img src={Hello} alt="Hello"/>, my name is</span>
